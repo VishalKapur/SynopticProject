@@ -1,3 +1,3 @@
-# SynopticProject
+# Gothic Cathedral
  
-Fin al year university Unreal Engine project.
+Final year university Unreal Engine project.
