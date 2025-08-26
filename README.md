@@ -4,6 +4,9 @@ Final year university Unreal Engine project.
 
 (Ignore if it asks for feedback, as it was for the assignment)
 
+IF loading screen takes too long or game crashes:
+    Exit the program (Alt F4 if needed) and go to: C:\Users\User\AppData\Local\SynopticProject\Saved and delete the .upipelinecache file
+
 Credits:
 
 Buxoided (2022) Skeleton Knight Modular [3D asset]. Available at: https://www.fab.com/listings/fc3a309a-a3eb-46de-bebe-dcb40dc31e48
