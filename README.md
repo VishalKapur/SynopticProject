@@ -4,8 +4,8 @@ Final year university Unreal Engine project.
 
 (Ignore if it asks for feedback, as it was for the assignment)
 
-IF loading screen takes too long or game crashes:
-    Exit the program (Alt F4 if needed) and go to: C:\Users\User\AppData\Local\SynopticProject\Saved and delete the .upipelinecache file
+----- If loading screen takes too long or game crashes -----
+Exit the program (Alt F4 if needed) and go to: C:\Users\User\AppData\Local\SynopticProject\Saved and delete the .upipelinecache file
 
 Credits:
 
