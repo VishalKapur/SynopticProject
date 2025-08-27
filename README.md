@@ -15,9 +15,9 @@ MichalSornat (2023) UCreate - Gothic Cathedral Asset Pack [3D asset]. Available 
 
 StanislavGeivah (2022) Ancient Golem [3D asset].Available at: https://www.fab.com/listings/211cded8-631a-4d3f-ad1f-e94e09cfa8e6 (Accessed: 10 March 2025)
 
-![Game main menu](image1.png)
-![Cathedral exterior](image2.png)
-![Cathedral interior](image3.png)
-![Graveyard on fire](image4.png)
-![Arrow traps](image5.png)
-![Falling statue on enemy](image6.png)
+![Game main menu](images/image1.png)
+![Cathedral exterior](images/image2.png)
+![Cathedral interior](images/image3.png)
+![Graveyard on fire](images/image4.png)
+![Arrow traps](images/image5.png)
+![Falling statue on enemy](images/image6.png)
